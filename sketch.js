@@ -1,5 +1,5 @@
 let width = 600;
-let height = 600
+let height = 600;
 let depth = 600;
 let redth = 600;
 let greenth = 600;
