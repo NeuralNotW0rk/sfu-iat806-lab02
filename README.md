@@ -1,3 +1,3 @@
-# sfu-iat806-s1
+# sfu-iat806-lab02
 
 > "Just write something in your readme" - Alireza Karduni
